@@ -9,6 +9,7 @@ Object.assign(student,{
 })
 
 console.log(student);
+//delteing properties thourhg destructuring
 let { age,year,...studentnew} = student;
 
 console.log(studentnew);
