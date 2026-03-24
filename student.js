@@ -6,6 +6,6 @@ let Student = {
 };
 module.exports = Student;
 
-// console.log(Student);
+console.log(Student);
 // console.log(Student.name);
 // console.log(Student["name"]);
